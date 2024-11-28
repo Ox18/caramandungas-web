@@ -1,0 +1,25 @@
+body {
+  overflow: hidden;
+  overflow-y: hidden;
+  margin: 0px !important;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.opacity {
+  transition: opacity 0.5s;
+}
+
+.opacity:hover {
+  opacity: 0.5;
+}
+
+.opacity:active {
+  opacity: 0.3;
+}
+
+.pointer {
+  cursor: pointer;
+}

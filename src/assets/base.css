@@ -1,0 +1,10 @@
+body {
+  overflow: hidden;
+  overflow-y: hidden;
+  margin: none;
+  font-family: "Exo";
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
